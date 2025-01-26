@@ -1,7 +1,7 @@
 Portfolio
 
 Anna Ivanova
-anna.ivanova@example.com | +49 123 456 7890 | [Link to personal website/GitHub/LinkedIn] - example.com/annaiv
+anna.ivanova@gamumail.com | +49 123 456 7890 | [Link to personal website/GitHub/LinkedIn] - example.com/annaiv
 
 Introduction
 
